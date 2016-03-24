@@ -1,0 +1,70 @@
+body {
+	background-image: url('../images/noisy_@2x.png');
+	font-family: Candara,Calibri,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+	margin: 0;
+	padding-top: 70px;
+	text-shadow: 1px 1px 1px rgba(0,0,0,0.002);
+	-webkit-font-smoothing: antialiased;
+	-moz-font-smoothing: antialiased;
+	-o-font-smoothing: antialiased;
+	font-smoothing: antialiased;
+	margin-top: 55px;
+}
+
+table {
+	border: 2px solid #333;
+	margin: 0 auto;
+}
+
+th {
+	background: #444;
+	color: #FFF;
+	font-size: 110%;
+}
+
+h1 {
+	text-shadow: 3px 2px 3px #777;
+}
+
+.actions ul{
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+}
+
+.actions li{
+	color: #FFF;
+	display: inline;
+	float: right;
+	position: relative;
+	padding: 0;
+	margin: 0px 4px;
+}
+
+.btn-small {
+	padding: 2px 4px;
+}
+
+#mainContent {
+	top: 100px;
+	width: 90%;
+	margin: 0 auto;
+}
+
+#plotSummary {
+	background-color:rgba(249, 249, 249, 0.8);
+	margin: 10px auto;
+	padding: 10px 25px;
+}
+
+ul {
+	margin: 0;
+	padding: 0;
+}
+
+.logo {
+	float: left;
+	margin-left: 35px;
+	width: 50px;
+	height: 50px;
+}
